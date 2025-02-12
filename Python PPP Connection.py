@@ -19,4 +19,4 @@ print(ppp.ifconfig())
 print(ppp.isconnected())
 import urequests as rt
 
-print(rt.get("https://cyberfly.io/").text)
+print(rt.get("https://google.com/").text)
